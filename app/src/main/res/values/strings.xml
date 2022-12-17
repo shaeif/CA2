@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shaeifka Taxi</string>
+    <string-array name="Cab_Type">
+        <item>Regular</item>
+        <item>Mini</item>
+        <item>Ultra-Thin</item>
+        <item>Invisible</item>
+    </string-array>
+</resources>
